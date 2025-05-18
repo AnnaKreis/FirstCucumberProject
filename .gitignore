@@ -3,7 +3,6 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
-
 ### IntelliJ IDEA ###
 *.idea
 *.iws
@@ -17,7 +16,5 @@ gradlew/
 gradlew.bat
 *.log
 *.png
-
-
 ### Mac OS ###
 .DS_Store
